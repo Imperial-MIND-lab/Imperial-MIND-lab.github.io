@@ -1,10 +1,9 @@
 ---
 ---
 
-# Lab Website Template
+# Imperial MIND Lab
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
+All that is gold does not glitter, Not all those who wander are lost; The old that is strong does not wither, Deep roots are not reached by the frost. From the ashes a fire shall be woken, A light from the shadows shall spring; Renewed shall be blade that was broken, The crownless again shall be king.
 
 {%
   include button.html
@@ -15,7 +14,7 @@ Spend less time worrying about managing a website and citations, and more time r
   include button.html
   type="github"
   text="On GitHub"
-  link="greenelab/lab-website-template"
+  link="https://github.com/Imperial-MIND-lab"
 %}
 
 {% include section.html %}

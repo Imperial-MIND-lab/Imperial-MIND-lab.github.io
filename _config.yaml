@@ -1,9 +1,9 @@
 # site properties and page defaults
-title: Lab Website Template
-subtitle: by the Greene Lab
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
-header: images/background.jpg
-footer: images/background.jpg
+title: Imperial MIND Lab
+subtitle: by Dr. Pedro Mediano
+description: Coffee-powered beast-machine Lab
+header: images/bg.png
+footer: images/bg.png
 proofer: false
 
 # site social media and other links
@@ -11,7 +11,7 @@ links:
   email: contact@your-lab.com
   orcid: 0000-0001-8713-9213
   google-scholar: ETJoidYAAAAJ
-  github: your-lab
+  github: Imperial-MIND-lab
   twitter: YourLabHandle
   youtube: YourLabChannel
 
